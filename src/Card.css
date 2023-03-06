@@ -1,0 +1,14 @@
+h2 {
+    color: orangered;
+    text-shadow: darkred 2px 2px 2px;
+    font-size: x-large;
+    animation: blink 3s linear infinite;
+}
+
+p {
+    color: darkred;
+}
+
+.sss {
+animation: revert 3s linear infinite;
+}
